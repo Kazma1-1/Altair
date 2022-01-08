@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "TPS54495RSAT")(type "KiCad")(uri "C:/Development-Tools/KiCAD/6.0/Custom Parts/Parts/TPS54495RSAT/footprints.pretty")(options "")(descr ""))
+  (lib (name "W25N01GVZEIG")(type "KiCad")(uri "C:/Development-Tools/KiCAD/6.0/Custom Parts/Parts/W25N01GVZEIG/footprints.pretty")(options "")(descr ""))
+)

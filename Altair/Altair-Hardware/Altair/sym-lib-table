@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "TPS54495RSAT")(type "KiCad")(uri "C:/Development-Tools/KiCAD/6.0/Custom Parts/Parts/TPS54495RSAT/TPS54495RSAT.kicad_sym")(options "")(descr ""))
+  (lib (name "W25N01GVZEIG")(type "KiCad")(uri "C:/Development-Tools/KiCAD/6.0/Custom Parts/Parts/W25N01GVZEIG/W25N01GVZEIG.kicad_sym")(options "")(descr ""))
+)
